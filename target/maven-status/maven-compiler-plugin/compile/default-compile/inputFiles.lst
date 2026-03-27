@@ -1,9 +1,0 @@
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\controller\NetflixController.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\controller\RootController.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\dto\NetflixDTO.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\entity\NetflixContent.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\exception\CsvParseException.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\exception\GlobalExceptionHandler.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\NetflixAnalysisApplication.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\repository\NetflixContentRepository.java
-C:\Users\JayaSimhaReddy\IdeaProjects\netflix-analysis\src\main\java\com\netflix\analysis\service\NetflixService.java
