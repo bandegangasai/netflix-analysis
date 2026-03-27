@@ -20,6 +20,26 @@ This is a full-stack project that analyzes Netflix data using a Spring Boot back
 ### Backend
 ```bash
 mvn spring-boot:run
+## Features
+- Fetch Netflix dataset
+- REST APIs for filtering/search
+- Data analysis insights
 
+## API Endpoints
+- GET /netflix
+- GET /netflix/{id}
+
+## Screenshots
+(Add images here)
+
+## Future Improvements
+- Add authentication
+- Deploy frontend
+
+## Live Demo
+(Will be added after deployment)
+
+## Author
+Bande Gangasai
 
 
